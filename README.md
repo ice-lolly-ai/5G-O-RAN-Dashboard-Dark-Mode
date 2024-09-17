@@ -1,5 +1,7 @@
 5G ORAN simulation
 
-![alt text]((https://github.com/ice-lolly-ai/5G-O-RAN-Dashboard-Dark-Mode/blob/main/oran-sim.png))
+
+
+![alt text](https://raw.githubusercontent.com/ice-lolly-ai/5G-O-RAN-Dashboard-Dark-Mode/main/oran-sim.png)
 
 
